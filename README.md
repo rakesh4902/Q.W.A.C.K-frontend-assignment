@@ -1,8 +1,8 @@
-# Q.W.A.K.C Vocabulary Page View
+# Q.W.A.C.K Vocabulary Page View
 
-Welcome to the deployed version of the O.W.A.K.C vocabulary page! This web page has been meticulously designed to mirror the structure and content of the original assignment, providing a comprehensive resource for exploring and learning new words. With interactive features such as clickable tabs for home, about, and more, navigating through the site is seamless. Additionally, each clickable element redirects users to the main website, enhancing interactivity and user experience. Dive into the world of words and expand your vocabulary right here!
+Welcome to the deployed version of the O.W.A.C.K vocabulary page! This web page has been meticulously designed to mirror the structure and content of the original assignment, providing a comprehensive resource for exploring and learning new words. With interactive features such as clickable tabs for home, about, and more, navigating through the site is seamless. Additionally, each clickable element redirects users to the main website, enhancing interactivity and user experience. Dive into the world of words and expand your vocabulary right here!
 
-## Want to see the website then click down the link
+## Want to see the website then click on the link
 
 ### https://bit.ly/49omtO1
 
