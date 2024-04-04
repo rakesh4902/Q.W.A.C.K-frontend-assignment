@@ -12,10 +12,10 @@ function App() {
       <a href="https://www.qwackedu.com/vocabulary/games"><div className='word-button1'><h1 className='word'>Play Fun games</h1></div></a>
     <div className="sun">
     </div>
-    <div class="ocean">
-      <div class="wave"></div>
-      <div class="wave"></div>
-      <div class="wave"></div>
+    <div className="ocean">
+      <div className="wave"></div>
+      <div className="wave"></div>
+      <div className="wave"></div>
     </div>
   
     </div>
