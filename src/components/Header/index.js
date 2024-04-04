@@ -4,7 +4,7 @@ import './index.css'
 const Header = ()=>(
     <div className='header'>
         <div className='left-side'>
-        <a href="https://www.qwackedu.com/"><img src="https://www.qwackedu.com/static/media/logo.2a487917892639ad5b74.png" alt="logo" className='app-logo'/></a>
+        <a href="https://www.qwackedu.com/"><img src="https://i.ibb.co/XYsDpcR/logo-2a487917892639ad5b74.png" alt="logo" className='app-logo'/></a>
         <ul className='left-side'>
             <a href="https://www.qwackedu.com/" ><li className='nav-text'>Home</li> </a>
             <a href="https://www.qwackedu.com/worksheets" ><li className='nav-text'>Worksheets</li></a>

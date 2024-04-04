@@ -11,7 +11,8 @@ const Footer=()=>(
     <section className="footer-area">
     <div className='footer'>
         <div className='first-side'>
-            <a href="/"><img src="https://www.qwackedu.com/static/media/logo.2a487917892639ad5b74.png" alt="logo" className='footerapp-logo'/></a>
+            
+            <a href="/"><img src="https://i.ibb.co/XYsDpcR/logo-2a487917892639ad5b74.png" alt="logo" className='footerapp-logo' border="0"/></a>
             <p className='lets-practice'>Let's Practice Grammar</p>
             <a href="https://www.qwackedu.com/AboutUs"><div className="text-icon">
             <p className='read-more'>Read More</p> <p className="arrow-icon"><BsArrowRightShort size={25} style={{textDecoration:'none',color:'#0e1133'}}  /> </p>
